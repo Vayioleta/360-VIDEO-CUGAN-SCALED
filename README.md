@@ -29,7 +29,7 @@ El proceso de escalado con CUGAN se puede dividir en los siguientes pasos:
 
 A continuación, se muestra un ejemplo de escalado utilizando CUGAN:
 
-![Ejemplo de Escalado](docs/example.png)
+![Ejemplo de Escalado](docs/example.PNG)
 
 ## Comparativa con Otros Modelos
 
