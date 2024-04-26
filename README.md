@@ -35,7 +35,7 @@ A continuación, se muestra un ejemplo de escalado utilizando CUGAN:
 
 Se realizó una comparativa entre CUGAN y otros modelos de escalado de videos. Los resultados se muestran a continuación:
 
-![Comparativa de Modelos](docs/link_imagen_comparativa.png)
+![Comparativa de Modelos](docs/title-compare1.png)
 
 ## Repositorio Original
 
